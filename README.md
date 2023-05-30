@@ -1,7 +1,8 @@
 # CadenceSystemVerilogTraining
+Materials generated while completing Cadence's SystemVerilog training course labs.  
+
 ## Course: SystemVerilog Accelerated Verification Using UVM
-Materials generated while completing Cadence's SystemVerilog for UVM training.  
-Labs completed as part of Cadence's SystemVerilog UVM training.  
+ 
 
 Lab01: https://www.edaplayground.com/x/UtZV
 
@@ -22,3 +23,5 @@ Lab07: https://www.edaplayground.com/x/kJ7g
 Lab08: https://www.edaplayground.com/x/rQAW
 
 Lab09: https://www.edaplayground.com/x/LK7j
+
+## Course: SystemVerilog for Design and Verification
