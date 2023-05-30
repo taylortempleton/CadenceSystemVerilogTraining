@@ -25,14 +25,20 @@ Lab09: https://www.edaplayground.com/x/LK7j
 
 ## Course: SystemVerilog for Design and Verification
 
-Lab01: https://www.edaplayground.com/x/taCs
+Lab01: Modeling a simple register  
+* https://www.edaplayground.com/x/taCs
 
-Lab02: https://www.edaplayground.com/x/hcNC
+Lab02: Modeling a simple multiplexor  
+* https://www.edaplayground.com/x/hcNC
 
-Lab03: https://www.edaplayground.com/x/KvzW
+Lab03: Modeling a simple counter  
+* https://www.edaplayground.com/x/KvzW
 
-Lab04: https://www.edaplayground.com/x/Khxr
+Lab04: Modeling a sequence controller   
+* https://www.edaplayground.com/x/Khxr
 
-Lab05: https://www.edaplayground.com/x/UP3h
+Lab05: Modeling an ALU  
+* https://www.edaplayground.com/x/UP3h
 
-Lab06: https://www.edaplayground.com/x/vbi5
+Lab06: Testing a memory module  
+* https://www.edaplayground.com/x/vbi5
